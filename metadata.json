@@ -1,0 +1,6 @@
+{
+  "name": "Aperture",
+  "description": "Apple-inspired, zero-cost B2B lead discovery, live website and DNS/MX evidence verification, personalized outreach copywriter, and downloadable Antigravity Skill generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
